@@ -19,9 +19,6 @@ import android.widget.Toast;
 import com.example.anrdoid.inventoryappstage1.data.InventoryContract.InventoryEntry;
 import com.example.anrdoid.inventoryappstage1.data.InventoryDbHelper;
 
-/**
- * Created by Labtop on 20/02/18.
- */
 
 public class AddActivity extends AppCompatActivity {
 

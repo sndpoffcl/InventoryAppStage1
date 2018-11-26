@@ -7,10 +7,6 @@ import android.util.Log;
 
 import com.example.anrdoid.inventoryappstage1.data.InventoryContract.InventoryEntry;
 
-/**
- * Created by Labtop on 20/02/18.
- */
-
 public class InventoryDbHelper extends SQLiteOpenHelper {
 
     //get classname to log

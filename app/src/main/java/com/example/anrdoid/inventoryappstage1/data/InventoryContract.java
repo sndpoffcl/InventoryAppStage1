@@ -2,9 +2,7 @@ package com.example.anrdoid.inventoryappstage1.data;
 
 import android.provider.BaseColumns;
 
-/**
- * Created by Labtop on 20/02/18.
- */
+
 
 public class InventoryContract {
 
